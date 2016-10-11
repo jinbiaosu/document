@@ -15,16 +15,17 @@ android研发工程师   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015.05
 3. 维护线上app的版本，解决测试提出的bug 
 
 ######百度移动云  	
-开发测试  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014.09-2015.05  
-1. 基于云推送sdk开发测试demo，并进行测试<br> 
-2. 测试轻客服移动端和web端，完成单元测试<br>
+Android QA  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014.09-2015.05  
+1. 基于云推送sdk开发集成Demo<br> 
+2. 基于开发的Demo写单测<br>
 3. 持续集成流程以及平台建设<br>
+4. 跟进轻客服项目的移动端和web端，保证产品质量<br>
 
 ######联想移动通讯科技有限公司  	
-软件开发工程师  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013.07-2014.09  
+Android开发工程师  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013.07-2014.09  
 1. 联想旗舰机型自动化测试框架开发<br> 
 2. 联想私有云平台环境搭建以及CI工具开发<br> 
-3. 领导onsite人员，进行项目的测试，并对测试人员进行自动化技术培训 
+3. 对接测试团队，进行自动化技术培训 
 
 ######微软亚太研发中心（外派） 	
 SDET实习生  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013.02-2013.06  
@@ -85,7 +86,7 @@ IPTV项目（机顶盒&XBox）测试
 
  
 ###自我描述 
-了解测试技术，开发过自动化框架，带领团队使用开发的框架，实现自动化项目，为公司开发了一套持续集成的平台。目前专做android app开发，负责项目一些模块的开发和维护。喜欢尝试新的开源框架，常常去一些开源社区如，oschina，stackoverflow，github等。性格开朗，喜欢运动，有责任心，能很好的融入团队，有良好的团队合作意识。 
+开发过自动化框架，带领团队使用开发的框架，实现项目自动化，为公司开发了一套持续集成的平台。在大型项目中，负责项目多模块的开发和维护。喜欢尝试新的开源框架，善于通过技术社区解决较难解决的问题，如oschina，stackoverflow，github等。性格开朗，喜欢运动，有责任心，能很好的融入团队，有良好的团队合作意识。 
  
 ###专(职)业技能  
 1.熟练掌握了android开发的基本技能，界面绘制，数据加载，数据缓存，网络请求等<br> 
@@ -97,4 +98,4 @@ IPTV项目（机顶盒&XBox）测试
 7.熟练使用常用操作系统，能在linux、mac、windows开发<br>
 
 ###期望工作  
-android开发  ，  全职  ，  北京  ，  18k-22k   
+android开发  ，  全职  ，  北京  ，  20k-25k   
