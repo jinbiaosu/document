@@ -28,7 +28,7 @@ Android开发工程师  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013.07
 3. 对接测试团队，进行自动化技术培训 
 
 ######微软亚太研发中心（外派） 	
-SDET实习生  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013.02-2013.06  
+SDET实习生  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2012.10-2013.06  
 IPTV项目（机顶盒&XBox）测试 
 
  
