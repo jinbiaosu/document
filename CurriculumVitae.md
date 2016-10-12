@@ -3,7 +3,7 @@
 
 <h6 align = "center" >Android研发工程师 · 北京光音网络发展股份有限公司</h6>
 <h6 align = "center">男  ︳   28岁  ︳本科 ︳ 4年工作经验  ︳ 北京  </h6>
-<h6 align = "center">13161181926 ︳sjbyyan@sina.com </h6>
+<h6 align = "center">13161181926 ︳jinbiaosu@sina.com </h6>
 
 
  
