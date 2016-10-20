@@ -100,4 +100,4 @@ bug的分析、提交与跟踪<br>
 7.熟练使用常用操作系统，能在linux、mac、windows开发<br>
 
 ###期望工作  
-android开发  ，  全职  ，  北京  ，  18k-22k   
+android开发  ，  全职  ，  北京  ，  20k-22k   
